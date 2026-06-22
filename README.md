@@ -1,4 +1,4 @@
-# AG-UI Python Demo
+# AG-UI Demo
 
 A minimal demonstration of building an AI Agent UI using the AG-UI SDK with a Python backend and a TypeScript frontend.
 
